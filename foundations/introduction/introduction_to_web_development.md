@@ -1,4 +1,4 @@
-### Introduction
+![image](https://github.com/user-attachments/assets/f5064f06-d194-4cf6-af06-96963b27c3e6)### Introduction
 
 What do web developers do? In short, they build and maintain websites.
 
@@ -28,7 +28,7 @@ Large tech companies, such as Google, Meta, and Amazon, have very stringent hiri
 
 Startups are a bit like the wild west. For a junior developer, it can feel like a trial by fire because of the pace of development. Startups often offer slightly lower salaries and require longer hours, but they may also offer equity in the company and highly unique environments.
 
-As a freelancer, you could command a strong hourly wage and the freedom to schedule and design your own products. However, you would be responsible for getting your own work (which means less coding time), managing billing from clients (which can be difficult), and being solely responsible. Strong people skills are necessary for this path.
+As a freelancer, you could command a strong hourly wage and the freedom to schedule and design your own products. However, you would be responsible for getting your own work (which means less coding time), managing billing from clients (which can be difficult), and being solely responsible. Strong communication and collaboration skills are essential for success in this path.
 
 As a consultant for a web consultancy, you would give up some of your freelancing wage potential but be able to focus more on the code and less on the hustle. This option also provides a good work-life balance and pay.
 
